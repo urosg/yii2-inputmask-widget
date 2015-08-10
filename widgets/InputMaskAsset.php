@@ -1,12 +1,12 @@
 <?php
 
 /**
- * @copyright Copyright &copy; Thiago Talma, thiagomt.com, 2014
+ * @copyright Copyright &copy;2015 Uros Gaber
  * @package yii2-jquery.inputmask
  * @version 1.0.0
  */
 
-namespace talma\widgets;
+namespace urosg\widgets;
 
 use yii\web\AssetBundle;
 
